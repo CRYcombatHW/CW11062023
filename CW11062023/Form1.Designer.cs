@@ -39,9 +39,9 @@
 			label1.AutoSize = true;
 			label1.Location = new Point(12, 9);
 			label1.Name = "label1";
-			label1.Size = new Size(38, 15);
+			label1.Size = new Size(60, 15);
 			label1.TabIndex = 0;
-			label1.Text = "label1";
+			label1.Text = "Text Box 1";
 			// 
 			// richTextBox1
 			// 
@@ -72,18 +72,18 @@
 			label2.AutoSize = true;
 			label2.Location = new Point(258, 9);
 			label2.Name = "label2";
-			label2.Size = new Size(38, 15);
+			label2.Size = new Size(60, 15);
 			label2.TabIndex = 4;
-			label2.Text = "label2";
+			label2.Text = "Text Box 2";
 			// 
 			// label3
 			// 
 			label3.AutoSize = true;
 			label3.Location = new Point(504, 9);
 			label3.Name = "label3";
-			label3.Size = new Size(38, 15);
+			label3.Size = new Size(60, 15);
 			label3.TabIndex = 5;
-			label3.Text = "label3";
+			label3.Text = "Text Box 3";
 			// 
 			// button1
 			// 
@@ -91,7 +91,7 @@
 			button1.Name = "button1";
 			button1.Size = new Size(732, 23);
 			button1.TabIndex = 6;
-			button1.Text = "button1";
+			button1.Text = "Show Messages";
 			button1.UseVisualStyleBackColor = true;
 			button1.Click += button1_Click;
 			// 

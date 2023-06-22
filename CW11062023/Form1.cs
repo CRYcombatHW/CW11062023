@@ -16,7 +16,7 @@ namespace CW11062023
 					})");
 				})
 			};
-			
+
 			foreach (Thread thread in messageBoxThreads)
 				thread.Start();
 
